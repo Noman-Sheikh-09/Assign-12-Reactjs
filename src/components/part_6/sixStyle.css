@@ -1,0 +1,57 @@
+.blue-box-part-6{
+    width: 1440px;
+height: 360px;
+background: #0F2A47;
+margin-top: 100px;
+}
+.heading-part-6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+margin-top: 145px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.sub-heading-part-6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 28px;
+margin-top: 0px;
+/* or 156% */
+
+
+color: #B6BEC8;
+}
+.search-title-part-6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+margin-top: 160px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.search-btn-part-6{
+    color: white;
+    background: #2289FF;
+
+
+    border: 1px solid #2289FF;
+    border-radius: 5px;
+    height: 40px;
+}
+.search-box-part-6{
+    border: 1px white solid;
+    border-radius: 5px;
+    height: 40px;
+}

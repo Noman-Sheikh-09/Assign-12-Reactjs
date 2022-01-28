@@ -1,0 +1,98 @@
+.testimonal{
+    width: 100%;
+    height: 800px;
+   background: rgb(238, 233, 224);
+   margin-top: 100px;
+   padding-top: 50px;
+    
+}
+.heading-part-5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+margin-top: 100px;
+/* identical to box height */
+
+text-align: center;
+
+color: #0F2B4A;
+
+}
+.img-1-part-5{
+    filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+    width: 56px;
+    margin-top: 200px;
+    align-items: left;
+height: 56px
+}
+.img-2-part-5{
+    
+filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+width: 76px;
+height: 76px;
+margin-top: 220px;
+align-items: flex-start;
+}
+.sub-heading-part-5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #576B81;
+}
+.img-3-part-5{
+    filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+    width: 33px;
+    height: 33px;
+    margin-top: 220px;
+}
+.img-4-part-5{
+    filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+    width: 76px;
+    height: 76px;
+    margin-top: 150px;
+}
+.img-5-part-5{
+    filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+    width: 56px;
+    height: 56px;
+    margin-top: 120px;
+}
+.img-6-part-5{
+
+    filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+    width: 33px;
+    height: 33px;
+    margin-top: 70px;
+    margin-left: 120px
+    px;
+}
+.img-7-part-5{
+    filter: drop-shadow(0px 14px 36px rgba(41, 66, 102, 0.14));
+    width: 139.96px;
+height: 139.96px;
+margin-left: 120px;
+}
+.img-8-part-5{
+margin-top: 100px;
+margin-left: -70px;
+filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+width: 56px;
+height: 56px;
+}
+.img-9-part-5{
+    filter: drop-shadow(0px 8px 24px rgba(41, 66, 102, 0.14));
+    width: 76px;
+    height: 76px;
+}
+.box-part-5{
+    margin-left: -200px;
+    margin-top: -50px;
+}

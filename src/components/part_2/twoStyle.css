@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.img-1-part-2{
+    width: 30px;
+height: 10px;
+}
+.img-2-part-2{
+    width: 186px;
+    height: 58px;
+    align-items: center;
+    margin-left: 0px;
+}
+.img-3-part-2{
+    width: 70px;
+    height: 52px;
+    align-items: center;
+}
+.img-4-part-2{
+    width: 103px;
+    height: 51px;
+    align-items: center;
+}
+.img-5-part-2{
+    width: 147px;
+    height: 60px;
+    align-items: center;
+}
+.box-part-2{
+    margin-top: 100px;
+    padding-top: 50px;
+}

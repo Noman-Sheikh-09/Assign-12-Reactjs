@@ -1,0 +1,103 @@
+.box-part-4{
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+.heading-part-4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 62px;
+/* or 129% */
+
+
+color: #0F2B4A;
+}
+.sub-heading-part-4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #576B81;
+}
+.btn-1-part-4{
+    width: 180px;
+height: 40px;
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #576B81;
+border: 1px solid #EFEFEF;
+box-sizing: border-box;
+border-radius: 6px;
+
+}
+.btn-2-part-4{
+    width: 164px;
+    height: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+background: #2289FF;
+box-shadow: 0px 8px 30px rgba(70, 146, 234, 0.18);
+border-radius: 6px;
+}
+
+.card-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #2289FF;
+
+}
+.card-text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #576B81;
+}
+.btn-card-1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+background: #2289FF;
+box-shadow: 0px 6px 13px rgba(70, 146, 234, 0.15);
+border-radius: 6px;
+}
